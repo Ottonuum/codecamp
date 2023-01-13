@@ -43,4 +43,6 @@ body {
 
   .text {
     grid-column: 2/3;
-  }
+    display: grid;
+}
+  
