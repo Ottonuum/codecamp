@@ -94,3 +94,8 @@ body {
     align-items: center;
     letter-spacing: 0.6px;
   }
+
+  .first-paragraph::first-letter {
+    font-size: 6rem;
+    color: orangered;
+  }
