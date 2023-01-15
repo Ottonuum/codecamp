@@ -46,6 +46,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     row-gap: 1.5rem;
+    column-width: 25rem;
 }
 
 .hero {
