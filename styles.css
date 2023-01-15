@@ -148,3 +148,7 @@ body {
     grid-template-rows: repeat(3, min-content);
     gap: 2rem;place-items: center;
 }
+
+.image-1, .image-3 {
+    grid-column: 1 / -1;
+  }
