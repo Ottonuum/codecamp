@@ -27,6 +27,10 @@ body {
     color: linen;
   }
 
+  hr {
+    margin: 1.5rem 0;
+  }
+
   main {
     display: grid;
   }
